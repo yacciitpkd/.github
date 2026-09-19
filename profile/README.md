@@ -32,8 +32,8 @@ We welcome contributions from members and the wider community. Before contributi
 
 - **Institute:** Indian Institute of Technology Palakkad
 - **Email:** [yacc@iitpkd.ac.in](mailto:yacc@iitpkd.ac.in)
-<!-- - **Website:** _[add club website, if available]_ 
-- **Social Media:** _[add links, e.g., Instagram, LinkedIn, Discord]_ -->
+- **Website:** [yacc.tech](https://yacc.tech) 
+- **Social Media:** [LinkedIn](https://linkdein.com/company/yacc-yet-another-coding-club), [Instagram](https://instagram.com/yacc.iitpkd)
 
 ## License
 
