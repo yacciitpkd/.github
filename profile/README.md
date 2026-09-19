@@ -1,6 +1,6 @@
 # Yet Another Coding Club (YACC)
 
-**_Official Coding Club of Indian Institute of Technology Palakkad_**
+**_Coding Club of Indian Institute of Technology Palakkad_**
 
 
 
